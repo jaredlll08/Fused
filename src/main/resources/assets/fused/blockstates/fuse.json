@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fused:fuse_north"
+    },
+    "facing=south": {
+      "model": "fused:fuse_south"
+    },
+    "facing=west": {
+      "model": "fused:fuse_west"
+    },
+    "facing=east": {
+      "model": "fused:fuse_east"
+    },
+    "facing=up": {
+      "model": "fused:fuse_all"
+    }
+  }
+}
